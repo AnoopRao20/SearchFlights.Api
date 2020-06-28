@@ -1,2 +1,2 @@
-# FlightBooking.Api
-A rest API for flight search demo
+# SearchFlights.Api
+A restful api for search flights
