@@ -1,0 +1,156 @@
+[
+    {
+        "flightNumber": "1",
+        "airlineName": "Air India",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 00:30:00",
+        "arrivalDateTime": "2020-06-29 01:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "2500"
+    },
+    {
+        "flightNumber": "2",
+        "airlineName": "Jet Airways",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 02:30:00",
+        "arrivalDateTime": "2020-06-29 03:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "3000"
+    },
+    {
+        "flightNumber": "3",
+        "airlineName": "Indigo",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 04:00:00",
+        "arrivalDateTime": "2020-06-29 05:30:00",
+        "duration": "1:30",
+        "numberOfStops": "2",
+        "price": "2400"
+    },
+    {
+        "flightNumber": "4",
+        "airlineName": "Air Deccan",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 06:30:00",
+        "arrivalDateTime": "2020-06-29 08:30:00",
+        "duration": "2:00",
+        "numberOfStops": "3",
+        "price": "3200"
+    },
+    {
+        "flightNumber": "5",
+        "airlineName": "Jet Airways",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 08:00:00",
+        "arrivalDateTime": "2020-06-29 09:00:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "3500"
+    },
+    {
+        "flightNumber": "6",
+        "airlineName": "Air India",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 10:30:00",
+        "arrivalDateTime": "2020-06-29 11:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "2500"
+    },
+    {
+        "flightNumber": "7",
+        "airlineName": "Spice Jet",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 11:30:00",
+        "arrivalDateTime": "2020-06-29 12:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "3900"
+    },
+    {
+        "flightNumber": "8",
+        "airlineName": "Air India",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 12:30:00",
+        "arrivalDateTime": "2020-06-29 13:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "4000"
+    },
+    {
+        "flightNumber": "9",
+        "airlineName": "Air India",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 13:30:00",
+        "arrivalDateTime": "2020-06-29 14:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "5000"
+    },
+    {
+        "flightNumber": "10",
+        "airlineName": "Air India",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Jaipur",
+        "departureDateTime": "2020-06-29 14:30:00",
+        "arrivalDateTime": "2020-06-29 15:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "2500"
+    },
+    {
+        "flightNumber": "11",
+        "airlineName": "Air India",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Hyderabad",
+        "departureDateTime": "2020-06-29 14:00:00",
+        "arrivalDateTime": "2020-06-29 16:00:00",
+        "duration": "2:00",
+        "numberOfStops": "0",
+        "price": "5000"
+    },
+    {
+        "flightNumber": "12",
+        "airlineName": "Jet Airways",
+        "sourceCity": "Mumbai",
+        "destinationCity": "New Delhi",
+        "departureDateTime": "2020-06-30 05:30:00",
+        "arrivalDateTime": "2020-06-30 07:00:00",
+        "duration": "1:30",
+        "numberOfStops": "0",
+        "price": "6000"
+    },
+    {
+        "flightNumber": "13",
+        "airlineName": "Indigo",
+        "sourceCity": "Mumbai",
+        "destinationCity": "Bangalore",
+        "departureDateTime": "2020-06-30 07:30:00",
+        "arrivalDateTime": "2020-06-30 08:30:00",
+        "duration": "1:00",
+        "numberOfStops": "0",
+        "price": "3500"
+    },
+    {
+        "flightNumber": "14",
+        "airlineName": "Indigo",
+        "sourceCity": "New Delhi",
+        "destinationCity": "Mumbai",
+        "departureDateTime": "2020-06-30 10:00:00",
+        "arrivalDateTime": "2020-06-30 11:30:00",
+        "duration": "1:30",
+        "numberOfStops": "0",
+        "price": "4500"
+    }
+]

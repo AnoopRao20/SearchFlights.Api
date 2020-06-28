@@ -1,0 +1,20 @@
+{
+  "name": "searchflights.api",
+  "version": "1.0.0",
+  "description": "A flight booking restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Anoop Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.26.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
